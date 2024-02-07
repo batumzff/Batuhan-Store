@@ -21,7 +21,7 @@ const Products = () => {
           ))}
         </div>
       ) : (
-        <h2 className="text-center text-3xl text-red-600 mt-32">No Products</h2>
+        <h2 className="text-center text-3xl text-red-500 mt-32">No Products</h2>
       )}
     </div>
   )
