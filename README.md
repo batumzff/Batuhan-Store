@@ -7,8 +7,7 @@ In the project I created with React, after entering the login information, you a
 - [Features](#features)
 - [Technologies Used](#technologies-used)
 - [Usage](#usage)
-- [Project Skeleton](#project-skeleton)
-- [Screenshots](#screenshots)
+
 
 ## Live Demo
 
